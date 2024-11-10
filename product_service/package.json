@@ -1,0 +1,14 @@
+{
+    "name": "product_service",
+    "version": "1.0.0",
+    "description": "Product Service for ShopEase",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.11.15"
+    }
+  }
+  
